@@ -2,6 +2,8 @@
 
 Link for Demo : https://drive.google.com/open?id=0B2ZcPEm9c4seYUVtc2RpZGVqajA
 
+![alt text](https://drive.google.com/open?id=0B2ZcPEm9c4seYUVtc2RpZGVqajA)
+
 I developed a prototype model which can sense people entering into the house with the help of Infrared Sensor and on the basis of that, it can trigger the call to the owner of the house with a message to inform about intruder. Apart from automated call, I had added a feature for common electricity saving, where this chipset is linked with the mobile application for controlling all the high power consumption devices such as Air Conditioning, Fan, Light, etc. Here, I had used Arduino UNO chip set (for learning purpose) along with the Ethernet Shield W5100, where the C programming code is embedded into the Arduino chip with device having a IP address and a Mac address for uniquely identifying the device within that network.
 
 My future implementation involves face-detection algorithm with the help of Web-cam and Servo motor. This would help the owner to keep intruder
@@ -11,7 +13,7 @@ This repository contains basic projects based on Arduino Chips.
 You should be very handy with C-programming language.
 ### Things required before starting:
 
-  - Arduino Software ( https://www.arduino.cc/ )
+  - [Arduino Software](https://www.arduino.cc/)
   - Order Arduino Chip
   - Ethernet Shield W1500
   - Infrared Sensor
@@ -21,6 +23,6 @@ You should be very handy with C-programming language.
   - Jumper Wire
    
 ### Licensing:
-Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the [GNU General Public License v3.0](). Portions from the following third party sources have been modified and are included in this repository.
+Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the [GNU General Public License v3.0](https://github.com/eashanadhikarla/Physical-Intrusion-Detection-System/blob/master/LICENSE). Portions from the following third party sources have been modified and are included in this repository.
   
 email: aeashan@gmail.com
