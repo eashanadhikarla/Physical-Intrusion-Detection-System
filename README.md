@@ -9,7 +9,7 @@ My future implementation involves face-detection algorithm with the help of Web-
 This repository contains basic projects based on Arduino Chips.
 
 You should be very handy with C-programming language.
-Things required before starting:
+### Things required before starting:
 
   - Arduino Software ( https://www.arduino.cc/ )
   - Order Arduino Chip
@@ -19,6 +19,8 @@ Things required before starting:
   - LED (Triplet Pair for Red, Green, Blue)
   - Breadboard
   - Jumper Wire
-  
+   
+### Licensing:
+Unless otherwise stated, the source code and trained Python model files are copyright and licensed under the [GNU General Public License v3.0](). Portions from the following third party sources have been modified and are included in this repository.
   
 email: aeashan@gmail.com
