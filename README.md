@@ -1,6 +1,6 @@
 # Physical Intrusion Detection System
 
-Link for Demo: https://drive.google.com/open?id=0B2ZcPEm9c4seYUVtc2RpZGVqajA
+Link for Demo: (removed)
 
 ### Team Members:
 
